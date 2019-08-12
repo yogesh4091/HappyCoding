@@ -1,0 +1,24 @@
+
+>squid:S2189A""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+>squid:S21893""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+Zsquid:S22769"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶
+Zsquid:S2276H"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(á˜ ¶
+Bsquid:S18604"&Synchronize on a new "Object" instead.(Ë¢¨™úÿÿÿÿ
+Bsquid:S1860B"&Synchronize on a new "Object" instead.(Ë¢¨™úÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ±³ûÿÿÿÿ
+O
+squid:S106F"9Replace this use of System.out or System.err by a logger.(–ö©«
+O
+squid:S106G"9Replace this use of System.out or System.err by a logger.(öš”Ä
+Gsquid:S2446:"0"notify" may not wake up the appropriate thread.(á»È
+Gsquid:S2446I"0"notify" may not wake up the appropriate thread.(á»È
+]squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+]squid:S2142$"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+=squid:S1170
+"!Make this final field static too.(ÈÇÕ„ûÿÿÿÿ
+Dsquid:S1604"(Make this anonymous inner class a lambda(Ã®­Šùÿÿÿÿ
+Dsquid:S1604"(Make this anonymous inner class a lambda(Ã®­Šùÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Õ­–ûÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+4squid:S21192"Save and re-use this "Random".(¼İÅf

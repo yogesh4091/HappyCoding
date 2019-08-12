@@ -1,0 +1,9 @@
+
+T
+squid:S106*"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+Ssquid:S3655F"7Call "Optional#isPresent()" before accessing the value.(ü–¥øÿÿÿÿ
+Ssquid:S3655@"7Call "Optional#isPresent()" before accessing the value.(ÄÜûñşÿÿÿÿ
+Ÿ%squid:RedundantThrowsDeclarationCheck"nRemove the declaration of thrown exception 'java.awt.AWTException', as it cannot be thrown from method's body.(Ã‡ËÀ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÖÉ—
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹ó³™
+¨%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Ã‡ËÀ

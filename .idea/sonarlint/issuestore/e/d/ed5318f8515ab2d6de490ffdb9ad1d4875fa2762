@@ -1,0 +1,9 @@
+
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(”Ä³ûÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(õ„Ëúÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÚÊ˜
+O
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ÚÊ˜
+T
+squid:S106&"9Replace this use of System.out or System.err by a logger.(’š¶ úÿÿÿÿ

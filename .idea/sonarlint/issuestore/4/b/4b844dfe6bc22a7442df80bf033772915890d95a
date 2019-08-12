@@ -1,0 +1,29 @@
+
+3squid:S1643r"Use a StringBuilder instead.(üëŞä
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÄ•î
+‰squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(÷’­Øşÿÿÿÿ
+ˆsquid:S1319"qThe type of the "childrens" object should be an interface such as "Map" rather than the implementation "HashMap".(ˆ—€
+O
+squid:S106<"9Replace this use of System.out or System.err by a logger.(¶Á©‘
+O
+squid:S106="9Replace this use of System.out or System.err by a logger.(¡á¦´
+O
+squid:S106@"9Replace this use of System.out or System.err by a logger.(¶Á©‘
+O
+squid:S106A"9Replace this use of System.out or System.err by a logger.(¡á¦´
+O
+squid:S106D"9Replace this use of System.out or System.err by a logger.(¶Á©‘
+O
+squid:S106E"9Replace this use of System.out or System.err by a logger.(¡á¦´
+O
+squid:S106H"9Replace this use of System.out or System.err by a logger.(¶Á©‘
+O
+squid:S106I"9Replace this use of System.out or System.err by a logger.(¡á¦´
+O
+squid:S106L"9Replace this use of System.out or System.err by a logger.(¶Á©‘
+O
+squid:S106M"9Replace this use of System.out or System.err by a logger.(¡á¦´
+O
+squid:S106P"9Replace this use of System.out or System.err by a logger.(¶Á©‘
+O
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(¡á¦´

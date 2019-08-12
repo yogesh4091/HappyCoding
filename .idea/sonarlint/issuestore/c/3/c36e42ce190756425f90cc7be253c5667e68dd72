@@ -1,0 +1,17 @@
+
+Dsquid:S1604"(Make this anonymous inner class a lambda(Ã®­Šùÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(õ¾ÂŞıÿÿÿÿ
+]squid:S2142)"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?squid:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+T
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ÇØşûúÿÿÿÿ
+`squid:S2147+"DCombine this catch with the one at line 41, which has the same body.(†«”Ïüÿÿÿÿ
+T
+squid:S106."9Replace this use of System.out or System.err by a logger.(º”Àßùÿÿÿÿ
+T
+squid:S106!"9Replace this use of System.out or System.err by a logger.(È¶¾üÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤«ú›
+?squid:S1148*"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+N
+squid:S106'"9Replace this use of System.out or System.err by a logger.(¤å©u
