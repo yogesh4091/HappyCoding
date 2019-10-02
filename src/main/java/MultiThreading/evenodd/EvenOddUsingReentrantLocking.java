@@ -4,7 +4,7 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-/** Created by 611217002 on 2/16/2017. */
+/** Created by Yogesh on 2/16/2017. */
 public class EvenOddUsingReentrantLocking {
 
   private int count;

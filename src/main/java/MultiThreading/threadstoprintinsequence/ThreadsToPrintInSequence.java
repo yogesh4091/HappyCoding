@@ -1,6 +1,6 @@
 package MultiThreading.threadstoprintinsequence;
 
-/** Created by 611217002 on 3/14/2017. */
+/** Created by Yogesh on 3/14/2017. */
 public class ThreadsToPrintInSequence {
 
   final Object lock = new Object();

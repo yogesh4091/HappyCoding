@@ -1,13 +1,13 @@
 
-Tsquid:S1197	"8Move the array designator from the variable to the type.(‡¾ª‰üÿÿÿÿ
+=squid:S1481"&Remove this unused "S" local variable.(ûœ­
+nsquid:S00117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô´Ÿ¯ûÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûœ­
 Osquid:S1197"8Move the array designator from the variable to the type.(ûœ­
-Tsquid:S1197-"8Move the array designator from the variable to the type.(Ô´Ÿ¯ûÿÿÿÿ
 gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÒŸ¾ÿÿÿÿÿ
-bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥‡ì
+Tsquid:S1197	"8Move the array designator from the variable to the type.(‡¾ª‰üÿÿÿÿ
 O
 squid:S106"9Replace this use of System.out or System.err by a logger.(´³¾ƒ
-=squid:S1481"&Remove this unused "S" local variable.(ûœ­
 Lsquid:S1854"5Remove this useless assignment to local variable "S".(ûœ­
-isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûœ­
-nsquid:S00117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô´Ÿ¯ûÿÿÿÿ
 gsquid:S11490"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ßî¶Û
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥‡ì
+Tsquid:S1197-"8Move the array designator from the variable to the type.(Ô´Ÿ¯ûÿÿÿÿ

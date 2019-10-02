@@ -1,8 +1,8 @@
 
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(²ÃñÏÿÿÿÿÿ
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ý¯ñôúÿÿÿÿ
 T
 squid:S106*"9Replace this use of System.out or System.err by a logger.(’ÜõŽýÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(²ÃñÏÿÿÿÿÿ
+Osquid:S18543"8Remove this useless assignment to local variable "temp".(œ¯¥³
 T
 squid:S106/"9Replace this use of System.out or System.err by a logger.(âž©àûÿÿÿÿ
-Osquid:S18543"8Remove this useless assignment to local variable "temp".(œ¯¥³
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ý¯ñôúÿÿÿÿ

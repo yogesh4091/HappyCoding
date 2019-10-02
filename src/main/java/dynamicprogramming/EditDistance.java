@@ -1,6 +1,6 @@
 package dynamicprogramming;
 
-/** Created by 611217002 on 8/8/2017. */
+/** Created by Yogesh on 8/8/2017. */
 // A Dynamic Programming based Java program to find minimum
 // number operations to convert str1 to str2
 class EditDistance {

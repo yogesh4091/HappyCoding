@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:ITR xmlns="http://incometaxindiaefiling.gov.in/master" xmlns:ns2="http://incometaxindiaefiling.gov.in/ITR1"
+         xmlns:ns3="http://incometaxindiaefiling.gov.in/main">
+    <ns2:ITR1>
+        <Form_ITR1>
+            <FormName>ITR-1</FormName>
+            <AssessmentYear>2018</AssessmentYear>
+        </Form_ITR1>
+        <PersonalInfo>
+            <AssesseeName>
+                <FirstName>YOGESH</FirstName>
+                <SurNameOrOrgName>BANSAL</SurNameOrOrgName>
+            </AssesseeName>
+            <PAN>BLXPB2037H</PAN>
+            <Address>
+                <ResidenceNo>Flat no. 311,Uber Verdant</ResidenceNo>
+                <RoadOrStreet>Sarjapur Main Road</RoadOrStreet>
+                <LocalityOrArea>Doddakannalli</LocalityOrArea>
+                <CityOrTownOrDistrict>BANGALORE</CityOrTownOrDistrict>
+                <StateCode>15</StateCode>
+                <CountryCode>91</CountryCode>
+                <PinCode>560035</PinCode>
+                <Phone/>
+                <CountryCodeMobile>91</CountryCodeMobile>
+                <MobileNo>9591173401</MobileNo>
+                <EmailAddress>yogesh.bansal06@gmail.com</EmailAddress>
+            </Address>
+            <DOB>1993-06-06</DOB>
+            <AadhaarCardNo>362390222728</AadhaarCardNo>
+        </PersonalInfo>
+        <FilingStatus>
+            <ReturnFileSec>11</ReturnFileSec>
+            <PortugeseCC5A>N</PortugeseCC5A>
+        </FilingStatus>
+        <ITR1_IncomeDeductions>
+            <TotalIncomeOfHP>0</TotalIncomeOfHP>
+            <IncomeOthSrc>0</IncomeOthSrc>
+        </ITR1_IncomeDeductions>
+        <ITR1_TaxComputation/>
+        <Refund>
+            <BankAccountDtls/>
+        </Refund>
+        <TDSonSalaries>
+            <TDSonSalary>
+                <EmployerOrDeductorOrCollectDetl>
+                    <TAN>DELB10137B</TAN>
+                    <EmployerOrDeductorOrCollecterName>BT E-SERV (INDIA) PRIVATE LIMITED
+                    </EmployerOrDeductorOrCollecterName>
+                </EmployerOrDeductorOrCollectDetl>
+                <IncChrgSal>402400</IncChrgSal>
+                <TotalTDSSal>26460</TotalTDSSal>
+            </TDSonSalary>
+            <TDSonSalary>
+                <EmployerOrDeductorOrCollectDetl>
+                    <TAN>BLRW01093B</TAN>
+                    <EmployerOrDeductorOrCollecterName>WM GLOBAL TECHNOLOGY SERVICES INDIA PRIVATE LIMITED
+                    </EmployerOrDeductorOrCollecterName>
+                </EmployerOrDeductorOrCollectDetl>
+                <IncChrgSal>517170</IncChrgSal>
+                <TotalTDSSal>6420</TotalTDSSal>
+            </TDSonSalary>
+        </TDSonSalaries>
+        <TaxPayments>
+            <TaxPayment>
+                <BSRCode>0011352</BSRCode>
+                <DateDep>2018-08-30</DateDep>
+                <SrlNoOfChaln>13321</SrlNoOfChaln>
+                <Amt>58180</Amt>
+            </TaxPayment>
+        </TaxPayments>
+        <Verification>
+            <Declaration>
+                <AssesseeVerName>YOGESH BANSAL</AssesseeVerName>
+                <FatherName>SURENDER KUMAR BANSAL</FatherName>
+                <AssesseeVerPAN>BLXPB2037H</AssesseeVerPAN>
+            </Declaration>
+        </Verification>
+    </ns2:ITR1>
+</ns3:ITR>

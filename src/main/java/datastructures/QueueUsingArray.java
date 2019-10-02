@@ -1,6 +1,6 @@
 package datastructures;
 
-/** Created by 611217002 on 4/25/2017. */
+/** Created by Yogesh on 4/25/2017. */
 public class QueueUsingArray<T> {
 
   int front;

@@ -1,6 +1,6 @@
 package sorting;
 
-/** Created by 611217002 on 7/27/2017. */
+/** Created by Yogesh on 7/27/2017. */
 public class MergeSort {
 
   public static void main(String[] args) {

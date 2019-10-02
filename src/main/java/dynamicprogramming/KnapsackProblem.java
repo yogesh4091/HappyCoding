@@ -1,6 +1,6 @@
 package dynamicprogramming;
 
-/** Created by 611217002 on 8/15/2017. */
+/** Created by Yogesh on 8/15/2017. */
 public class KnapsackProblem {
 
   public static void main(String[] args) {

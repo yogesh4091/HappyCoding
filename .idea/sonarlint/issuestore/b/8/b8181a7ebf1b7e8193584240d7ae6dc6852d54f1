@@ -1,6 +1,7 @@
 
-gsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(ñƒÊÝúÿÿÿÿ
-gsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(£³Ÿüþÿÿÿÿ
-gsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(Î‘ éúÿÿÿÿ
+Dsquid:S1185"(Remove this method to simply inherit it.(½¿–ô8ì”ÍþÓ-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£³Ÿüþÿÿÿÿ
+gsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(ñƒÊÝúÿÿÿÿ
+gsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(Î‘ éúÿÿÿÿ
 N
-squid:S106,"9Replace this use of System.out or System.err by a logger.(º—
+squid:S106."9Replace this use of System.out or System.err by a logger.(º—

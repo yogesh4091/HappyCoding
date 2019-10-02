@@ -1,6 +1,6 @@
 
 ;squid:S1659&"Declare "j" on a separate line.(á”æåşÿÿÿÿ
-Tsquid:S1197"8Move the array designator from the variable to the type.(·áú§ÿÿÿÿÿ
-Nsquid:S1197!"8Move the array designator from the variable to the type.(˜
 O
 squid:S106"9Replace this use of System.out or System.err by a logger.(ª—ÂÄ
+Tsquid:S1197"8Move the array designator from the variable to the type.(·áú§ÿÿÿÿÿ
+Nsquid:S1197!"8Move the array designator from the variable to the type.(˜

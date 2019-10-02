@@ -1,6 +1,6 @@
 package dynamicprogramming;
 
-/** Created by 611217002 on 8/8/2017. */
+/** Created by Yogesh on 8/8/2017. */
 public class MinCost {
 
   /* Returns cost of minimum cost path from (0,0) to (m, n) in mat[R][C]*/

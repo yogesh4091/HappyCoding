@@ -1,6 +1,6 @@
 package sorting;
 
-/** Created by 611217002 on 4/24/2017. */
+/** Created by Yogesh on 4/24/2017. */
 public class SimpleSort {
 
   public static void main(String[] args) {

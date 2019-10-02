@@ -1,8 +1,10 @@
 package codility;
 
+
 public class BinaryGap {
 
   public static void main(String[] args) {
+
 
     int number = 32;
 
@@ -23,7 +25,7 @@ public class BinaryGap {
 
         if (!firstOne) {
           firstOne = true;
-          current=0;
+          current = 0;
           continue;
         }
 

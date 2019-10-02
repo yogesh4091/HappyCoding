@@ -3,7 +3,7 @@ package MultiThreading.cyclicbarrier;
 import java.util.concurrent.*;
 
 /**
- * Created by 611217002 on 2/17/2017.
+ * Created by Yogesh on 2/17/2017.
  */
 public class CyclicBarrierExample implements Runnable {
 
@@ -18,11 +18,7 @@ public class CyclicBarrierExample implements Runnable {
     CyclicBarrier cyclicBarrier =
         new CyclicBarrier(
             5,
-            new Runnable() {
-              public void run() {
-                System.out.println("Cyclic Barrier Running....");
-              }
-            });
+            () -> System.out.println("Cyclic Barrier Running...."));
 
     ExecutorService executorService = Executors.newFixedThreadPool(5);
     for (int i = 0; i < 5; i++) {

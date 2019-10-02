@@ -5,7 +5,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
-/** Created by 611217002 on 2/15/2017. */
+/** Created by Yogesh on 2/15/2017. */
 public class AnotherCountDownLatch implements Runnable {
 
   private CountDownLatch latch;

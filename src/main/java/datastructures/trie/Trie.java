@@ -1,6 +1,7 @@
 package datastructures.trie;
 
 import java.util.HashMap;
+import java.util.Map;
 
 class TrieNode {
 
@@ -8,9 +9,9 @@ class TrieNode {
   private HashMap<Character, TrieNode> childrens;
   private boolean end;
 
-  public TrieNode(char value) {
+  TrieNode(char value) {
     this.value = value;
-    childrens = new HashMap<Character, TrieNode>();
+    childrens = new HashMap<>();
     end = false;
   }
 
@@ -22,7 +23,7 @@ class TrieNode {
     this.value = value;
   }
 
-  public HashMap<Character, TrieNode> getChildrens() {
+  public Map<Character, TrieNode> getChildrens() {
     return childrens;
   }
 
@@ -84,7 +85,7 @@ public class Trie {
   public void insert(String input) {
 
     TrieNode temp = root;
-    HashMap<Character, TrieNode> map;
+    Map<Character, TrieNode> map;
     for (int i = 0; i < input.length(); i++) {
 
       char cha = input.charAt(i);
@@ -103,7 +104,7 @@ public class Trie {
 
   public String getMatchingPrefix(String input) {
     TrieNode temp = root;
-    HashMap<Character, TrieNode> map;
+    Map<Character, TrieNode> map;
     String prefix = "";
     for (int i = 0; i < input.length(); i++) {
 
@@ -114,7 +115,9 @@ public class Trie {
         prefix += cha;
         temp = map.get(cha);
 
-      } else break;
+      } else {
+        break;
+      }
     }
     return prefix;
   }

@@ -1,6 +1,6 @@
 package designpatterns.iteratorpattern;
 
-/** Created by 611217002 on 8/22/2017. */
+/** Created by Yogesh on 8/22/2017. */
 public class ConcreteContainer implements Container {
 
   public String names[] = {"Robert", "John", "Julie", "Lora"};

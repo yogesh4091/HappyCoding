@@ -2,7 +2,7 @@ package datastructures;
 
 import java.util.Stack;
 
-/** Created by 611217002 on 8/22/2017. */
+/** Created by Yogesh on 8/22/2017. */
 public class QueueUsingStack {
 
   Stack<Integer> stack1;

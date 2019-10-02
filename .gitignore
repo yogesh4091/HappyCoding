@@ -1,0 +1,20 @@
+target/
+dependency-reduced-pom.xml
+!.mvn/wrapper/maven-wrapper.jar
+.cbt-data-model
+out/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+*.DS_Store
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr

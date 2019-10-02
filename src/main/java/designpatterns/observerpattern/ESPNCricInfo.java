@@ -1,6 +1,6 @@
 package designpatterns.observerpattern;
 
-/** Created by 611217002 on 2/13/2017. */
+/** Created by Yogesh on 2/13/2017. */
 public class ESPNCricInfo implements Observer, Displayer {
 
   Observable observable;

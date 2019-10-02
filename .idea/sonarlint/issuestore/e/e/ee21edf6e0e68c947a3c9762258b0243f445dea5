@@ -1,15 +1,15 @@
 
-esquid:S1192"IDefine a constant instead of duplicating this literal " running" 3 times.(àÿ‘ýþÿÿÿÿ
+Dsquid:S1604"(Make this anonymous inner class a lambda(Ã®­Šùÿÿÿÿ
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(àÿ‘ýþÿÿÿÿ
+Dsquid:S1604
+"(Make this anonymous inner class a lambda(Ã®­Šùÿÿÿÿ
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(àÿ‘ýþÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿Žòº
+Dsquid:S1604"(Make this anonymous inner class a lambda(Ã®­Šùÿÿÿÿ
 T
 squid:S106!"9Replace this use of System.out or System.err by a logger.(àÿ‘ýþÿÿÿÿ
 T
 squid:S106,"9Replace this use of System.out or System.err by a logger.(¬Ñ¾€ÿÿÿÿÿ
-Dsquid:S1604
-"(Make this anonymous inner class a lambda(Ã®­Šùÿÿÿÿ
-Dsquid:S1604"(Make this anonymous inner class a lambda(Ã®­Šùÿÿÿÿ
-Dsquid:S1604"(Make this anonymous inner class a lambda(Ã®­Šùÿÿÿÿ
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿Žòº
+esquid:S1192"IDefine a constant instead of duplicating this literal " running" 3 times.(àÿ‘ýþÿÿÿÿ

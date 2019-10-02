@@ -1,0 +1,15 @@
+
+¢%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ýó¿Žÿÿÿÿÿ
+O
+squid:S106""9Replace this use of System.out or System.err by a logger.(À‰Ž²
+O
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Ã¹³»
+O
+squid:S106+"9Replace this use of System.out or System.err by a logger.(Ø¨Ôá
+O
+squid:S106."9Replace this use of System.out or System.err by a logger.(¬©áú
+O
+squid:S1064"9Replace this use of System.out or System.err by a logger.(Ø¨Ôá
+O
+squid:S1067"9Replace this use of System.out or System.err by a logger.(Ê¥å½

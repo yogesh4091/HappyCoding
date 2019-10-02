@@ -2,7 +2,7 @@ package MultiThreading.runningthreadinsequence;
 
 import java.util.concurrent.CountDownLatch;
 
-/** Created by 611217002 on 3/3/2017. */
+/** Created by Yogesh on 3/3/2017. */
 public class UsingCountDownLatch {
 
   public static void main(String[] args) throws InterruptedException {

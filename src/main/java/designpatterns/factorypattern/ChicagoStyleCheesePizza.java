@@ -1,6 +1,6 @@
 package designpatterns.factorypattern;
 
-/** Created by 611217002 on 2/15/2017. */
+/** Created by Yogesh on 2/15/2017. */
 public class ChicagoStyleCheesePizza extends Pizza {
   public ChicagoStyleCheesePizza() {
     name = "Chicago Style Deep Dish Cheese Pizza";

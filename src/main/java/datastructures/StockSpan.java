@@ -2,7 +2,7 @@ package datastructures;
 
 import java.util.Stack;
 
-/** Created by 611217002 on 7/29/2017. */
+/** Created by Yogesh on 7/29/2017. */
 public class StockSpan {
 
   public static void main(String[] args) {

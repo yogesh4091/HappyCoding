@@ -1,6 +1,6 @@
 package MultiThreading.synchronizedblockusage;
 
-/** Created by 611217002 on 2/15/2017. */
+/** Created by Yogesh on 2/15/2017. */
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;

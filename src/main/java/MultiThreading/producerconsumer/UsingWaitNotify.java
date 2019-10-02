@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-/** Created by 611217002 on 2/16/2017. */
+/** Created by Yogesh on 2/16/2017. */
 public class UsingWaitNotify {
 
   private final Boolean lockingObject = false;

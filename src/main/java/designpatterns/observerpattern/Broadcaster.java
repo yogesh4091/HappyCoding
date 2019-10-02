@@ -3,7 +3,7 @@ package designpatterns.observerpattern;
 import java.util.ArrayList;
 import java.util.List;
 
-/** Created by 611217002 on 2/13/2017. */
+/** Created by Yogesh on 2/13/2017. */
 public class Broadcaster implements Observable {
 
   private List<Observer> observerList;

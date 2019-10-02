@@ -1,6 +1,6 @@
 package dynamicprogramming;
 
-/** Created by 611217002 on 8/8/2017. */
+/** Created by Yogesh on 8/8/2017. */
 public class LargestContiguousSubsequence {
 
   public static void main(String[] args) {

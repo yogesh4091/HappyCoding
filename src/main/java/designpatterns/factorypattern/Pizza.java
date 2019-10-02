@@ -2,7 +2,7 @@ package designpatterns.factorypattern;
 
 import java.util.ArrayList;
 
-/** Created by 611217002 on 2/15/2017. */
+/** Created by Yogesh on 2/15/2017. */
 public abstract class Pizza {
   String name;
   String dough;

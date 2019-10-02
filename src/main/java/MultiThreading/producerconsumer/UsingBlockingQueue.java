@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 
-/** Created by 611217002 on 2/16/2017. */
+/** Created by Yogesh on 2/16/2017. */
 public class UsingBlockingQueue {
 
   private static BlockingQueue<Integer> blockingQueue = new ArrayBlockingQueue<Integer>(10);

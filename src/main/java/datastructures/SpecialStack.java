@@ -2,7 +2,7 @@ package datastructures;
 
 import java.util.Stack;
 
-/** Created by 611217002 on 8/14/2017. */
+/** Created by Yogesh on 8/14/2017. */
 public class SpecialStack {
 
   Stack<Integer> stack;

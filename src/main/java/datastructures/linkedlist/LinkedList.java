@@ -2,7 +2,7 @@ package datastructures.linkedlist;
 
 import java.util.HashSet;
 
-/** Created by 611217002 on 5/23/2017. */
+/** Created by Yogesh on 5/23/2017. */
 public class LinkedList<T> {
 
   Nodes<T> start;
