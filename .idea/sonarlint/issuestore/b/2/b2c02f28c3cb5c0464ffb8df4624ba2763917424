@@ -1,34 +1,0 @@
-
-O
-squid:S106 "9Replace this use of System.out or System.err by a logger.(œÀ´«
-U
-squid:S106—"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-T
-squid:S106'"9Replace this use of System.out or System.err by a logger.(í“ÂÏÿÿÿÿÿ
-gsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(¢©üÅıÿÿÿÿ
-T
-squid:S106;"9Replace this use of System.out or System.err by a logger.(İÿ©Ãÿÿÿÿÿ
-vsquid:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").(Âàğƒüÿÿÿÿ
-O
-squid:S106m"9Replace this use of System.out or System.err by a logger.(•¾°ñ
-usquid:S2293v"YReplace the type specification in this constructor call with the diamond operator ("<>").(†şğ’ıÿÿÿÿ
-T
-squid:S106F"9Replace this use of System.out or System.err by a logger.(İÿ©Ãÿÿÿÿÿ
-T
-squid:S106&"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-T
-squid:S106x"9Replace this use of System.out or System.err by a logger.(—èÆ§üÿÿÿÿ
-csquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(ÄŞ•
-O
-squid:S106{"9Replace this use of System.out or System.err by a logger.(÷ŸĞÊ
-P
-squid:S106"9Replace this use of System.out or System.err by a logger.(óş¾æ
-P
-squid:S106‰"9Replace this use of System.out or System.err by a logger.(“£Ï
-T
-squid:S106Z"9Replace this use of System.out or System.err by a logger.(û€õÈıÿÿÿÿ
-psquid:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(ãíßõ
-psquid:S2293S"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÈúŒî
-T
-squid:S106""9Replace this use of System.out or System.err by a logger.(Ê…ôúÿÿÿÿ
-hsquid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ

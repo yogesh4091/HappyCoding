@@ -1,10 +1,0 @@
-
-2squid:S1643"Use a StringBuilder instead.(Îºò$
-3squid:S1643""Use a StringBuilder instead.(öË÷“
-3squid:S1643)"Use a StringBuilder instead.(öË÷“
-U"squid:SwitchLastCaseIsDefaultCheck7""Add a default case to this switch.(×ß‰™úÿÿÿÿ
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥ãçÈùÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(ŽŽë¸
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(õç­Ä

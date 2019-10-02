@@ -1,35 +1,0 @@
-
-?squid:S1659ù""Declare "fast" on a separate line.(ùòµ¼úÿÿÿÿ
-psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢ÇÿÉ
-psquid:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(•Ê°â
-psquid:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(•Ê°â
-usquid:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼Ãóïùÿÿÿÿ
-bsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(åµÃð
-bsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(àØ»Ü
-bsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(ŠØš
-csquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(Ì½ƒô
-hsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(‰ù’Íúÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(«žƒ§
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(çíœ­þÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(‘ç›‹úÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(ßÔˆ
-O
-squid:S106!"9Replace this use of System.out or System.err by a logger.(’Ï‰”
-O
-squid:S106&"9Replace this use of System.out or System.err by a logger.(—êÞÛ
-T
-squid:S106U"9Replace this use of System.out or System.err by a logger.(±ïèÅùÿÿÿÿ
-O
-squid:S106Z"9Replace this use of System.out or System.err by a logger.(§®Ž
-T
-squid:S106`"9Replace this use of System.out or System.err by a logger.(÷ºâÿÿÿÿÿÿ
-P
-squid:S106Ï"9Replace this use of System.out or System.err by a logger.(ž€ÑÝ
-„"squid:ClassVariableVisibilityCheck"PMake data a static final constant or non-public and provide accessors if needed.(–ú‚Áøÿÿÿÿ
-„"squid:ClassVariableVisibilityCheck‘"PMake next a static final constant or non-public and provide accessors if needed.(®Óƒ¶üÿÿÿÿ
-ksquid:S00100n"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§§Õ¿þÿÿÿÿ
-csquid:S2259È"FA "NullPointerException" could be thrown; "pointer1" is nullable here.(Ú€ãŠþÿÿÿÿ

@@ -1,11 +1,0 @@
-
-Tsquid:S1197"8Move the array designator from the variable to the type.(äÒýôøÿÿÿÿ
-Osquid:S1197	"8Move the array designator from the variable to the type.(†¼‹™
-Tsquid:S1197"8Move the array designator from the variable to the type.(ûˆ…ôüÿÿÿÿ
-Tsquid:S1197"8Move the array designator from the variable to the type.(ûˆ…ôüÿÿÿÿ
-Tsquid:S1197"8Move the array designator from the variable to the type.(´…ØÁøÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(É´‹¿þÿÿÿÿ
-isquid:S00117
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Éç‡ç
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûˆ…ôüÿÿÿÿ
