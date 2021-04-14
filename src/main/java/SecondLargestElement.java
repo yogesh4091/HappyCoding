@@ -1,4 +1,4 @@
-
+import java.util.Optional;
 
 public class SecondLargestElement {
 
@@ -25,10 +25,7 @@ public class SecondLargestElement {
       } else if (element > secondLargest) {
         secondLargest = element;
       }
-
     }
     return secondLargest;
-
   }
-
 }

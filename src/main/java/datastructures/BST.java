@@ -121,8 +121,6 @@ class BinarySearchTree {
     }
   }
 
-  public void iterativeInorder(Node root) {}
-
   public void prefix(Node root) {
     if (root == null) return;
     System.out.print(root.getData() + "  ");
