@@ -77,6 +77,29 @@ public class Graph<T> {
     }
   }
 
+  public void depthFirstSearch(T data) {
+    // 0   1   2   3   4   5   6
+    Vertex<T> firstNode = new Vertex<>(data);
+    System.out.println("\nDFS:");
+    if (!nodes.containsKey(firstNode)) {
+      System.out.println("Invalid Vertex");
+      return;
+    }
+
+    Stack<Vertex<T>> stack = new Stack<>();
+    stack.push(firstNode);
+    List<Vertex<T>> visitedNodes = new ArrayList<>();
+
+    while (!stack.isEmpty()) {
+      Vertex<T> vertex = stack.pop();
+      if (!visitedNodes.contains(vertex)) {
+        visitedNodes.add(vertex);
+        nodes.get(vertex).forEach(stack::push);
+      }
+    }
+    visitedNodes.forEach(element -> System.out.print(element.getData() + "   "));
+  }
+
   public static void main(String[] args) {
     Graph<Integer> graph = new Graph<>();
     graph.addVertex(0);
@@ -96,6 +119,7 @@ public class Graph<T> {
     graph.addEdge(4, 5);
     graph.addEdge(5, 6);
     graph.breadthFirstSearch(0);
+    graph.depthFirstSearch(0);
   }
 }
 
