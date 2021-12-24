@@ -5,8 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85007ee3-35c6-4e09-96b5-b53cb7ca2ecc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/codility/EatFishProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codility/LongestConsecutiveRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codility/MiniBigBurgers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codility/MinimumCostToDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codility/SmallerChains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codility/StringDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codility/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructures/dynamicprogramming/KnapSack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/LeafNodeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ZigZagSolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/graph/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Cursor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SecondLargestElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/QueueUsingStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/QueueUsingStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructures/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/linkedlist/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns/observerpattern/Broadcaster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns/observerpattern/Broadcaster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns/singletonpattern/BreakingUsingReflection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns/singletonpattern/BreakingUsingReflection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns/singletonpattern/DoubleCheckedSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns/singletonpattern/DoubleCheckedSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dynamicprogramming/CircusRaju.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/dynamicprogramming/CircusRaju.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dynamicprogramming/CoinChangeProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/dynamicprogramming/CoinChangeProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dynamicprogramming/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/dynamicprogramming/EditDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dynamicprogramming/EditDistanceTushar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/dynamicprogramming/EditDistanceTushar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dynamicprogramming/EggDropping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/dynamicprogramming/EggDropping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dynamicprogramming/KnapsackProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/dynamicprogramming/KnapsackProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dynamicprogramming/LargestContiguousSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/dynamicprogramming/LargestContiguousSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dynamicprogramming/LongestCommonSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/dynamicprogramming/LongestCommonSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dynamicprogramming/LongestIncreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/dynamicprogramming/LongestIncreasingSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dynamicprogramming/MaxSumForNonAdjacentElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/dynamicprogramming/MaxSumForNonAdjacentElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dynamicprogramming/MinCost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/dynamicprogramming/MinCost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dynamicprogramming/MinimumJumps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/dynamicprogramming/MinimumJumps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dynamicprogramming/SubsetSumProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructures/dynamicprogramming/SubsetSumProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parkinglot/ParkingLot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/revise/BinarySearchTree.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,58 +96,12 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager" selected="Application.Graph">
-    <configuration name="BinaryGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codility.BinaryGap" />
-      <module name="MyProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codility.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="revise.BinarySearchTree" />
-      <module name="MyProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="revise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructures.graph.Graph" />
-      <module name="MyProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="datastructures.graph.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecondLargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SecondLargestElement" />
-      <module name="MyProject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SmallerChains">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -127,12 +115,78 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EatFishProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.EatFishProblem" />
+      <module name="MyProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EggDropping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.dynamicprogramming.EggDropping" />
+      <module name="MyProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.dynamicprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestConsecutiveRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.LongestConsecutiveRun" />
+      <module name="MyProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiniBigBurgers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.MiniBigBurgers" />
+      <module name="MyProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallerChains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.SmallerChains" />
+      <module name="MyProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Graph" />
-        <item itemvalue="Application.BinarySearchTree" />
-        <item itemvalue="Application.SecondLargestElement" />
-        <item itemvalue="Application.BinaryGap" />
+        <item itemvalue="Application.SmallerChains" />
+        <item itemvalue="Application.EatFishProblem" />
+        <item itemvalue="Application.LongestConsecutiveRun" />
+        <item itemvalue="Application.MiniBigBurgers" />
+        <item itemvalue="Application.EggDropping" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +214,20 @@
       <workItem from="1617625047281" duration="4855000" />
       <workItem from="1617699763752" duration="650000" />
       <workItem from="1617717633013" duration="754000" />
-      <workItem from="1618300657674" duration="4451000" />
+      <workItem from="1618300657674" duration="7479000" />
+      <workItem from="1618732246784" duration="553000" />
+      <workItem from="1618814238282" duration="656000" />
+      <workItem from="1619081779360" duration="1218000" />
+      <workItem from="1635484585232" duration="554000" />
+      <workItem from="1635832115936" duration="47000" />
+      <workItem from="1635843444147" duration="1531000" />
+      <workItem from="1635924406279" duration="7854000" />
+      <workItem from="1636966542975" duration="4224000" />
+      <workItem from="1637227915236" duration="1194000" />
+      <workItem from="1637575686246" duration="1213000" />
+      <workItem from="1637644446082" duration="1578000" />
+      <workItem from="1637752374666" duration="1396000" />
+      <workItem from="1638546397545" duration="4875000" />
     </task>
     <servers />
   </component>
@@ -178,5 +245,21 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/ZigZagSolution.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/ZigZagSolution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

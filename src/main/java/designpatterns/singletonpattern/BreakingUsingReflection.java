@@ -17,11 +17,7 @@ public class BreakingUsingReflection {
     try {
       EagerSingleton instance2 = (EagerSingleton) constructor.newInstance();
       System.out.println(instance2.hashCode());
-    } catch (InstantiationException e) {
-      e.printStackTrace();
-    } catch (IllegalAccessException e) {
-      e.printStackTrace();
-    } catch (InvocationTargetException e) {
+    } catch (InstantiationException | IllegalAccessException | InvocationTargetException e) {
       e.printStackTrace();
     }
   }

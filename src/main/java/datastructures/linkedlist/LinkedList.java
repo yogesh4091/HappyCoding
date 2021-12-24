@@ -32,8 +32,8 @@ public class LinkedList<T> {
     linkedList.traverse();
     System.out.print("Traversed using toString() : ");
     linkedList.traverseUsingToString();
-    Nodes node65 = linkedList.kthNodeFromEnd(1);
-    Nodes node15 = linkedList.kthNodeFromEnd(3);
+    Nodes<Integer> node65 = linkedList.kthNodeFromEnd(1);
+    Nodes<Integer> node15 = linkedList.kthNodeFromEnd(3);
     node65.setNext(node15);
     System.out.println(linkedList.detectLoop());
 
@@ -85,7 +85,7 @@ public class LinkedList<T> {
       System.out.println("Loop detected");
       return;
     }
-    Nodes temp = start;
+    Nodes<T> temp = start;
     while (temp != null) {
       System.out.println(temp.getData());
       temp = temp.getNext();
@@ -97,7 +97,7 @@ public class LinkedList<T> {
   }
 
   public Nodes<T> search(T data) {
-    Nodes temp = start;
+    Nodes<T> temp = start;
     while (temp != null) {
       if (temp.getData() == data) {
         return temp;
@@ -107,7 +107,7 @@ public class LinkedList<T> {
     return temp;
   }
 
-  Nodes ReverseRecursion(Nodes head) {
+  Nodes<T> ReverseRecursion(Nodes<T> head) {
 
     if (head == null) {
       return null;
@@ -117,22 +117,22 @@ public class LinkedList<T> {
       return head;
     }
 
-    Nodes rest = head.getNext();
+    Nodes<T> rest = head.getNext();
 
     head.setNext(null);
-    Nodes reverseList = ReverseRecursion(rest);
+    Nodes<T> reverseList = ReverseRecursion(rest);
 
     rest.setNext(head);
     return reverseList;
   }
 
-  Nodes reverseIterative(Nodes head) {
+  Nodes<T> reverseIterative(Nodes<T> head) {
 
     if (head == null) return null;
     if (head.getNext() == null) return head;
-    Nodes temp = head;
-    Nodes prev = null;
-    Nodes next;
+    Nodes<T> temp = head;
+    Nodes<T> prev = null;
+    Nodes<T> next;
     while (temp != null) {
       next = temp.getNext();
       temp.setNext(prev);
@@ -151,8 +151,8 @@ public class LinkedList<T> {
   }
 
   public void deleteFromEnd() {
-    Nodes last = start;
-    Nodes secondLast = start;
+    Nodes<T> last = start;
+    Nodes<T> secondLast = start;
     while (last.getNext() != null) {
       secondLast = last;
       last = last.getNext();
@@ -161,8 +161,8 @@ public class LinkedList<T> {
   }
 
   public void deleteFromMid(int kthPosition) {
-    Nodes temp = start;
-    //        Nodes prevNode = start;
+    Nodes<T> temp = start;
+    //        Nodes<T> prevNode = start;
     int counter = 1;
     while (temp.getNext() != null && counter != kthPosition) {
       counter++;
@@ -172,9 +172,9 @@ public class LinkedList<T> {
     temp.setNext(temp.getNext().getNext());
   }
 
-  public Nodes kthNodeFromEnd(int k) {
-    Nodes pointer1 = start;
-    Nodes pointer2 = start;
+  public Nodes<T> kthNodeFromEnd(int k) {
+    Nodes<T> pointer1 = start;
+    Nodes<T> pointer2 = start;
     int counter = 0;
     while (counter != k && pointer1 != null) {
       pointer1 = pointer1.getNext();
@@ -189,27 +189,27 @@ public class LinkedList<T> {
   }
 
   public void swapKthNodeFromEnd(int k) {
-    Nodes pointer1 = start;
-    Nodes pointer2 = start;
+    Nodes<T> pointer1 = start;
+    Nodes<T> pointer2 = start;
     int counter = 1;
     while (counter != k && pointer1 != null) {
       pointer1 = pointer1.getNext();
       counter++;
     }
-    Nodes kthNodeFromStart = pointer1;
+    Nodes<T> kthNodeFromStart = pointer1;
     while (pointer1.getNext() != null) {
       pointer1 = pointer1.getNext();
       pointer2 = pointer2.getNext();
     }
-    Object data = kthNodeFromStart.getData();
+    T data = kthNodeFromStart.getData();
     kthNodeFromStart.setData(pointer2.getData());
     pointer2.setData(data);
     System.out.println("After Swapping : \n" + start);
   }
 
   public boolean detectLoop() {
-    Nodes pointer1 = start;
-    Nodes pointer2 = start;
+    Nodes<T> pointer1 = start;
+    Nodes<T> pointer2 = start;
     boolean loopPresent = false;
     while (pointer2 != null && pointer2.getNext() != null) {
       pointer1 = pointer1.getNext();
@@ -225,8 +225,8 @@ public class LinkedList<T> {
 
   public void detectAndRemoveLoopUsingSet() {
     if (!detectLoop()) return;
-    HashSet keepInLinkedList = new HashSet();
-    Nodes temp = start;
+    HashSet<Nodes<T>> keepInLinkedList = new HashSet<>();
+    Nodes<T> temp = start;
     while (temp.getNext() != null) {
       if (keepInLinkedList.contains(temp.getNext())) {
         temp.setNext(null);
@@ -240,13 +240,13 @@ public class LinkedList<T> {
   }
 
   // Function that detects loop in the list
-  void detectAndRemoveLoop(Nodes node) {
+  void detectAndRemoveLoop(Nodes<T> node) {
 
     // If list is empty or has only one node
     // without loop
     if (node == null || node.getNext() == null) return;
 
-    Nodes slow = node, fast = node;
+    Nodes<T> slow = node, fast = node;
 
     // Search for loop using slow and fast pointers
     while (fast != null && fast.getNext() != null) {
@@ -270,7 +270,7 @@ public class LinkedList<T> {
 class Nodes<T> {
 
   public T data;
-  public Nodes next;
+  public Nodes<T> next;
 
   Nodes(T data) {
     this.data = data;
@@ -284,11 +284,11 @@ class Nodes<T> {
     this.data = data;
   }
 
-  Nodes getNext() {
+  Nodes<T> getNext() {
     return next;
   }
 
-  void setNext(Nodes next) {
+  void setNext(Nodes<T> next) {
     this.next = next;
   }
 }

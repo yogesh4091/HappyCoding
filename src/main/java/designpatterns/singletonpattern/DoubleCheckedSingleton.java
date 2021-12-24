@@ -3,7 +3,7 @@ package designpatterns.singletonpattern;
 /** Created by Yogesh on 2/15/2017. */
 public class DoubleCheckedSingleton {
 
-  private static volatile DoubleCheckedSingleton uniqueInstance;
+  private static volatile DoubleCheckedSingleton uniqueInstance = null;
 
   private DoubleCheckedSingleton() {
     if (uniqueInstance != null) {

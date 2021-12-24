@@ -9,8 +9,8 @@ public class QueueUsingStack {
   Stack<Integer> stack2;
 
   public QueueUsingStack() {
-    stack1 = new Stack<Integer>();
-    stack2 = new Stack<Integer>();
+    stack1 = new Stack<>();
+    stack2 = new Stack<>();
   }
 
   public static void main(String[] args) {

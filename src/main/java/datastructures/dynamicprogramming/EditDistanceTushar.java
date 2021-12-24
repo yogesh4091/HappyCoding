@@ -1,4 +1,4 @@
-package dynamicprogramming;
+package datastructures.dynamicprogramming;
 
 /**
  * Date 07/07/2014

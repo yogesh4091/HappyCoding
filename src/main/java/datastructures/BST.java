@@ -210,8 +210,8 @@ class BinarySearchTree {
 
   public Node leastCommonAncestor(int key1, int key2) {
 
-    Node node1 = searchNode(this.root, key1 < key2 ? key1 : key2);
-    Node node2 = searchNode(this.root, key1 < key2 ? key2 : key1);
+    Node node1 = searchNode(this.root, Math.min(key1, key2));
+    Node node2 = searchNode(this.root, Math.max(key1, key2));
     if (node1 == null || node2 == null) {
       System.out.println("Node not found");
       return null;

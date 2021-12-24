@@ -1,4 +1,4 @@
-package dynamicprogramming;
+package datastructures.dynamicprogramming;
 
 /** Created by Yogesh on 8/8/2017. */
 // A Dynamic Programming based Java program to find minimum

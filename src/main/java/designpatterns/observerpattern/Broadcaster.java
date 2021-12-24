@@ -6,11 +6,11 @@ import java.util.List;
 /** Created by Yogesh on 2/13/2017. */
 public class Broadcaster implements Observable {
 
-  private List<Observer> observerList;
+  private final List<Observer> observerList;
   private Score score;
 
   public Broadcaster(String teamName) {
-    observerList = new ArrayList<Observer>();
+    observerList = new ArrayList<>();
     score = new Score(teamName);
   }
 
